@@ -20,12 +20,12 @@
 #along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-USERNAME=+XXXXXXXXXXXX
-NEWPHONENUMBER=+XXXXXXXXXX
-AUTOREPLY_MESSAGE="Bonjour,\n
-Je suis un chat bot qui vous répond automatiquement, la personne que vous essayez de contacter à changé de numéro.\n
-Merci de la contacter au numéro $NEWPHONENUMBER\n
-Merci d'avance\n\n
+USERNAME=+254774338285
+NEWPHONENUMBER=+254741962195
+AUTOREPLY_MESSAGE="Hey,\n
+I am Mike Owino's chatbot that replies automatically.\n
+Please contact him using this number $NEWPHONENUMBER\n
+Thank you in advance\n\n
 
 Hello,\n
 I am a chat bot that automatically answers you, the person you are trying to contact has change the number.\n
